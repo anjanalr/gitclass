@@ -25,5 +25,5 @@ Numbered list:
   2. oranges
   3. pears
 
-The rain--not the reign--in
-Spain.
+<p>The rain&mdash;not the
+reign&mdash;in Spain.</p>
